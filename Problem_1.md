@@ -11,19 +11,19 @@
 The weight of a 50 kg stone in Newtons is:
 
 $$
-\text{Weight} = 50 \, \text{kg} \times 9.81 \, \text{m/s}^2 = 490.5 \, \text{N}
+\text{Weight} = 50 \ \text{kg} \times 9.81 \ \text{m/s}^2 = 490.5 \ \text{N}
 $$
 
 The mechanical advantage (MA) remains the same as before:
 
 $$
-\text{MA} = \frac{\text{Length of Effort Arm}}{\text{Length of Load Arm}} = \frac{1.5 \, \text{m}}{0.5 \, \text{m}} = 3
+\text{MA} = \frac{\text{Length of Effort Arm}}{\text{Length of Load Arm}} = \frac{1.5 \ \text{m}}{0.5 \ \text{m}} = 3
 $$
 
 The effort required to lift the stone is calculated as:
 
 $$
-\text{Effort} = \frac{\text{Weight}}{\text{MA}} = \frac{490.5 \, \text{N}}{3} \approx 163.5 \, \text{N}
+\text{Effort} = \frac{\text{Weight}}{\text{MA}} = \frac{490.5 \ \text{N}}{3} \approx 163.5 \ \text{N}
 $$
 
 #### Practical Application
